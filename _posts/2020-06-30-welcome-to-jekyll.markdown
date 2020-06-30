@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Naveen's Blog!"
 date:   2020-06-30 11:15:40 +0530
 categories: jekyll update
 ---
